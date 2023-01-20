@@ -10,6 +10,8 @@ TagManager:
   - 2ptext
   - set1p
   - set2p
+  - 1panim
+  - 2panim
   layers:
   - Default
   - TransparentFX
