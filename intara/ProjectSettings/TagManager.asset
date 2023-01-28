@@ -12,6 +12,9 @@ TagManager:
   - set2p
   - 1panim
   - 2panim
+  - top
+  - hakke
+  - noko
   layers:
   - Default
   - TransparentFX
